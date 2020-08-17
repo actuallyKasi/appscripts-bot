@@ -26,8 +26,8 @@ function onRemoveFromSpace(event) {
 }
 
 
-var CLIENT_ID = '0oamsdaqyQVBFtDlU4x6';
-var CLIENT_SECRET = 'Agmjw4FQqkS7J-wY5wcqMKLIpHFc6FfX4Dfztb2m';
+var CLIENT_ID = 'XXXXXXXX';
+var CLIENT_SECRET = 'XXXXXXXXX';
 
 /**
  * Authorizes and makes a request to the Dropbox API.
